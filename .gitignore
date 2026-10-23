@@ -1,0 +1,9 @@
+build
+oe-logs
+oe-workdir
+
+.cache/
+.qtcreator/
+build/
+build-*/
+.DS_Store
